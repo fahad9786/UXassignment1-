@@ -1,4 +1,4 @@
-# cd-wordpress
+# UXassignment1--wordpress
 continuous deployment wordpress
 
 TLDR;
